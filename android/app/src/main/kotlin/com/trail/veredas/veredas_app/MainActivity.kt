@@ -1,0 +1,5 @@
+package com.trail.veredas.veredas_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
